@@ -21,7 +21,7 @@ function Navbar(props) {
 
         <ul>
           <li className="font-[600]">
-            <Link href="/">M. Azizh</Link>
+            <Link href="/">M. Azish</Link>
           </li>
         </ul>
       </div>
