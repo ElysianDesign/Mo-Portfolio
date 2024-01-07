@@ -38,7 +38,7 @@ export default function Home() {
     >
       <header className="w-full flex flex-col items-center justify-center mb-[6vh] h-[90vh]">
         <h1 className="uppercase font-[400] text-[37vw] leading-[0.8] tracking-tight">
-          Azizh
+          Azish
         </h1>
 
         <h2 className="uppercase font-[400] text-[12vw] leading-none tracking-wider">
