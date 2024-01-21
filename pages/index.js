@@ -152,7 +152,7 @@ export default function Home() {
         <div className="z-10 cursor-pointer" onClick={handleContact}>
           <h3 className="text-[16vw] leading-none z-10 uppercase">
             <span className="mb-3">←</span>
-            in<span className="text-white opacity-[80%]">ter</span>ship
+            in<span className="text-white opacity-[80%]">ter</span>nship
           </h3>
         </div>
       </div>

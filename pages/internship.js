@@ -115,7 +115,7 @@ export default function Contact() {
               </p>
 
               <p className="">
-                Below you can find all the documents related to my intership.
+                Below you can find all the documents related to my intersnhip.
               </p>
 
               <div className="flex flex-col">
