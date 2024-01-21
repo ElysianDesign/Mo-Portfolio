@@ -49,7 +49,7 @@ export default function Projects() {
               <Link href="/project-1">
                 <img
                   className="max-h-[55vh] w-[25vw] object-cover"
-                  src="assets/placeholder-1.webp"
+                  src="assets/aicar.png"
                   alt=""
                 />
               </Link>
@@ -70,17 +70,17 @@ export default function Projects() {
                 <Link href="/project-2">
                   <img
                     className="max-h-[55vh] w-[25vw] object-cover"
-                    src="assets/placeholder-1.webp"
+                    src="assets/q1.png"
                     alt=""
                   />
                 </Link>
                 <div className="mt-5 space-y-2">
                   <Link href="/project-2">
                     <h2 className="font-[700] text-2xl tracking-wider leading-none">
-                      ai project
+                      bi project
                     </h2>
                     <h3 className="font-[700] text-2xl tracking-wider leading-none">
-                      autonomous driving car
+                      crop statistics with global warming
                     </h3>
                   </Link>
                 </div>
@@ -91,38 +91,38 @@ export default function Projects() {
               <Link href="/project-3">
                 <img
                   className="max-h-[55vh] w-[25vw] object-cover"
-                  src="assets/placeholder-1.webp"
+                  src="assets/chese.png"
                   alt=""
                 />
               </Link>
               <div className="mt-5 space-y-2">
                 <Link href="/project-3">
                   <h2 className="font-[700] text-2xl tracking-wider leading-none">
-                    ai project
+                    big data
                   </h2>
                   <h3 className="font-[700] text-2xl tracking-wider leading-none">
-                    autonomous driving car
+                    cheese classifier
                   </h3>
                 </Link>
               </div>
             </div>
 
             <div className="flex justify-end mt-[15vh]">
-              <Link href="/internship" className="w-full">
+              <Link href="/project-4" className="w-full">
                 <img
                   className="max-h-[55vh] w-[100%] object-cover"
-                  src="assets/internship.png"
+                  src="assets/ecs.png"
                   alt=""
                 />
               </Link>
             </div>
             <div className="mt-5">
-              <Link href="/internship">
+              <Link href="/project-4">
                 <h2 className="font-[700] text-2xl tracking-wider leading-none">
-                  internship
+                  ecs
                 </h2>
                 <h3 className="font-[700] text-2xl tracking-wider leading-none">
-                  internship title here
+                  Enhancing IT Help Desk Efficiency with SharePoint and O365
                 </h3>
               </Link>
             </div>

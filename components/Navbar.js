@@ -15,7 +15,7 @@ function Navbar(props) {
             <Link href="/projects">Projects</Link>
           </li>
           <li>
-            <Link href="/contact">Contact</Link>
+            <Link href="/internship">Internship</Link>
           </li>
         </ul>
 
