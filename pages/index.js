@@ -157,6 +157,17 @@ export default function Home() {
         </div>
       </div>
 
+      <div className="flex flex-col justify-center items-center mb-[10vh]">
+        <Link href="assets/docs/AzishMohammadCV.pdf" download={true} target="_blank">
+          <h2 className="font-bold text-[5rem]">My CV</h2>
+          <img
+            src="assets/docs/cv-mo-azish.jpg"
+            className="object-cover w-[50vw]"
+            alt=""
+          />
+        </Link>
+      </div>
+
       <Footer />
     </div>
   );
